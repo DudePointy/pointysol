@@ -1,0 +1,21 @@
+﻿.navbar-default .navbar-nav > li > a {
+    color: #d4d4d4
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+        color: #fff;
+        font-size: large
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    background: 0 0;
+    color: #d4d4d4
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none;
+    padding-top: 20px
+}
+* {
+    color: white;
+}
